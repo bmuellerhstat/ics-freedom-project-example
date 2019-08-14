@@ -6,7 +6,7 @@ The purpose of this blog is to document my process of researching, defining the 
 
 For my project, I am addressing the problem of ___ by creating ___.
 
-[Sample Blog Entry](entry01.md)
+[Sample Blog Entry](entries/entry01.md)
 
 Product
 
